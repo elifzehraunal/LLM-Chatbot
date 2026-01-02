@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#-Projeler\LLM Chatbot\bin\Debug\LLM Chatbot.exe.config
+C:\Users\user\Desktop\C#-Projeler\LLM Chatbot\bin\Debug\LLM Chatbot.exe
+C:\Users\user\Desktop\C#-Projeler\LLM Chatbot\bin\Debug\LLM Chatbot.pdb
+C:\Users\user\Desktop\C#-Projeler\LLM Chatbot\obj\Debug\LLM Chatbot.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#-Projeler\LLM Chatbot\obj\Debug\LLM_Chatbot.Properties.Resources.resources
+C:\Users\user\Desktop\C#-Projeler\LLM Chatbot\obj\Debug\LLM Chatbot.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#-Projeler\LLM Chatbot\obj\Debug\LLM Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#-Projeler\LLM Chatbot\obj\Debug\LLM Chatbot.exe
+C:\Users\user\Desktop\C#-Projeler\LLM Chatbot\obj\Debug\LLM Chatbot.pdb
+C:\Users\user\Desktop\C#-Projeler\LLM Chatbot\obj\Debug\LLM Chatbot.exe.config
